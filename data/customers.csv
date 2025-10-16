@@ -1,0 +1,6 @@
+customer_id,customer_name,segment,country
+1,Ada Lovelace,Consumer,USA
+2,Grace Hopper,Corporate,USA
+3,Linus Torvalds,Consumer,Finland
+4,Katherine Johnson,Consumer,USA
+5,Alan Turing,Home Office,UK
