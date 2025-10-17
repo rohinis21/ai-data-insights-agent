@@ -38,7 +38,7 @@ This project merges **Natural Language Processing (NLP)**, **SQL generation**, a
 | **Environment** | `.env` | Holds `OPENAI_API_KEY` and `DB_URL` |
 
 📌 **Architecture Diagram:**  
-(Place your architecture image in `docs/images/architecture.png` and link it below)
+(Place your architecture image in `scripts/architecture.png` and link it below)
 
 ```markdown
-![Architecture](docs/images/architecture.png)
+![Architecture](scripts/architecture.png)
