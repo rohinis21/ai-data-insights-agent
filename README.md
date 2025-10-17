@@ -39,8 +39,6 @@ This project merges **Natural Language Processing (NLP)**, **SQL generation**, a
 
 📌 **Architecture Diagram:**  
 
-📌 **Architecture Diagram:**
-
 ![Architecture](architecture.png)
 
 ---
@@ -69,6 +67,7 @@ This project merges **Natural Language Processing (NLP)**, **SQL generation**, a
 ```sql
 SELECT name FROM sqlite_master WHERE type='table';
 ```
+---
 
 ## 🚀 Application Flow
 
