@@ -39,5 +39,7 @@ This project merges **Natural Language Processing (NLP)**, **SQL generation**, a
 
 📌 **Architecture Diagram:**  
 
-```markdown
+📌 **Architecture Diagram:**
+
 ![Architecture](architecture.png)
+
