@@ -103,6 +103,8 @@ SELECT name FROM sqlite_master WHERE type='table';
   ```python
   st.error("Blocked: only SELECT queries allowed.")
 
+---
+
 ## ⚙️ Installation & Execution
 
 ```bash
@@ -127,6 +129,8 @@ python -m streamlit run app/main.py
 ```
 
 ➡️ Then open: http://localhost:8501
+
+---
 
 ## 🧰 Tech Stack
 
