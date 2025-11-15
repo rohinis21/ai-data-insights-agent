@@ -1,11 +1,5 @@
 # 📊 AI Data Insights Agent  
 
-**Developer:** Rohini Sondole  
-**Type:** GenAI + SQL + Business Analytics  
-**Environment:** Python 3.13 | Streamlit | LangChain | SQLite  
-
----
-
 ## 🧠 Overview  
 
 The **AI Data Insights Agent** is a Streamlit-based web application that allows users to ask business questions in plain English and automatically receive:  
@@ -13,7 +7,7 @@ The **AI Data Insights Agent** is a Streamlit-based web application that allows 
 2️⃣ A concise **natural-language summary**  
 3️⃣ A **data visualization or table** of results  
 
-This project merges **Natural Language Processing (NLP)**, **SQL generation**, and **data visualization** into a single interface — ideal for non-technical business users who need quick insights without writing SQL manually.  
+This project merges **Natural Language Processing (NLP)**, **SQL generation**, and **data visualization** into a single interface ideal for non-technical business users who need quick insights without writing SQL manually.  
 
 ---
 
@@ -166,10 +160,10 @@ python -m streamlit run app/main.py
 
 ## 🏁 Conclusion
 
-This project demonstrates how **Generative AI models** can act as natural-language data analysts —  
+This project demonstrates how **Generative AI models** can act as natural-language data analysts 
 translating plain business questions into actionable SQL insights.
 
-Even when offline or quota-limited, the **mock mode** ensures full demo capability —  
+Even when offline or quota-limited, the **mock mode** ensures full demo capability  
 making it ideal for **learning, presentations, and portfolio showcases.**
 
 
